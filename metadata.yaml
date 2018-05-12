@@ -1,0 +1,30 @@
+_repo: BolshevismThe-Enemy-of-Political-and-Industrial-Democracy_16613
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spargo, John
+    birthdate: 1876
+    deathdate: 1966
+    gutenberg_agent_id: '6824'
+    url: http://www.gutenberg.org/2009/agents/6824
+    wikipedia: http://en.wikipedia.org/wiki/John_Spargo
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16613'
+  lccn: '19006149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Communism -- Soviet Union'
+- !lcsh 'Soviet Union -- History -- Revolution, 1917-1921'
+title: 'Bolshevism: The Enemy of Political and Industrial Democracy'
+url: http://www.gutenberg.org/ebooks/16613
